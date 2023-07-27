@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Nakul Pandhare 
-- 👀 I’m interested in Internet of Things and Computer Vision 
-- 🌱 I’m currently an Engineering Student 
+- 👀 I’m interested in Robotics and Automation 
+- 🌱 I’m currently a Master's Student at the University of Stuttgart.
 
 
 <!---
